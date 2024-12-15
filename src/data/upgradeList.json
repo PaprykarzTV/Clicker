@@ -1,0 +1,292 @@
+{
+    "upgradeList": [
+        {
+            "id" : 1,
+            "title": "Upgrade 1",
+            "description": "Adding +1 per click",
+            "modifier": 1,
+            "modifierType": "sum",
+            "cost": 50,
+            "bought": false
+        },
+        {
+            "id" : 2,
+            "title": "Upgrade 2",
+            "description": "adding 1.5x clicks",
+            "modifier": 1.5,
+            "modifierType": "multiply",
+            "cost": 400,
+            "bought": false
+        },
+        {
+            "id" : 3,
+            "title": "Upgrade 3",
+            "description": "Adding +4 clicks",
+            "modifier": 4,
+            "modifierType": "sum",
+            "cost": 200,
+            "bought": false
+        },
+        {
+            "id": 4,
+            "title": "Double Trouble",
+            "description": "Doubles your clicks",
+            "modifier": 2,
+            "modifierType": "multiply",
+            "cost": 800,
+            "bought": false
+        },
+        {
+            "id": 5,
+            "title": "Power Boost",
+            "description": "Adding +10 clicks",
+            "modifier": 10,
+            "modifierType": "sum",
+            "cost": 1000,
+            "bought": false
+        },
+        {
+            "id": 6,
+            "title": "Triple Strike",
+            "description": "Triples your clicks",
+            "modifier": 3,
+            "modifierType": "multiply",
+            "cost": 2000,
+            "bought": false
+        },
+        {
+            "id": 7,
+            "title": "Mega Boost",
+            "description": "Adding +25 clicks",
+            "modifier": 25,
+            "modifierType": "sum",
+            "cost": 3000,
+            "bought": false
+        },
+        {
+            "id": 8,
+            "title": "Quadruple Power",
+            "description": "4x your clicks",
+            "modifier": 4,
+            "modifierType": "multiply",
+            "cost": 5000,
+            "bought": false
+        },
+        {
+            "id": 9,
+            "title": "Super Surge",
+            "description": "Adding +50 clicks",
+            "modifier": 50,
+            "modifierType": "sum",
+            "cost": 7500,
+            "bought": false
+        },
+        {
+            "id": 10,
+            "title": "5x Multiplier",
+            "description": "5x your clicks",
+            "modifier": 5,
+            "modifierType": "multiply",
+            "cost": 10000,
+            "bought": false
+        },
+        {
+            "id": 11,
+            "title": "Mega Surge",
+            "description": "Adding +100 clicks",
+            "modifier": 100,
+            "modifierType": "sum",
+            "cost": 15000,
+            "bought": false
+        },
+        {
+            "id": 12,
+            "title": "10x Multiplier",
+            "description": "10x your clicks",
+            "modifier": 10,
+            "modifierType": "multiply",
+            "cost": 25000,
+            "bought": false
+        },
+        {
+            "id": 13,
+            "title": "Ultra Boost",
+            "description": "Adding +250 clicks",
+            "modifier": 250,
+            "modifierType": "sum",
+            "cost": 40000,
+            "bought": false
+        },
+        {
+            "id": 14,
+            "title": "20x Multiplier",
+            "description": "20x your clicks",
+            "modifier": 20,
+            "modifierType": "multiply",
+            "cost": 75000,
+            "bought": false
+        },
+        {
+            "id": 15,
+            "title": "Giga Surge",
+            "description": "Adding +500 clicks",
+            "modifier": 500,
+            "modifierType": "sum",
+            "cost": 100000,
+            "bought": false
+        },
+        {
+            "id": 16,
+            "title": "50x Multiplier",
+            "description": "50x your clicks",
+            "modifier": 50,
+            "modifierType": "multiply",
+            "cost": 250000,
+            "bought": false
+        },
+        {
+            "id": 17,
+            "title": "Ultimate Boost",
+            "description": "Adding +1000 clicks",
+            "modifier": 1000,
+            "modifierType": "sum",
+            "cost": 500000,
+            "bought": false
+        },
+        {
+            "id": 18,
+            "title": "100x Multiplier",
+            "description": "100x your clicks",
+            "modifier": 100,
+            "modifierType": "multiply",
+            "cost": 1000000,
+            "bought": false
+        },
+        {
+            "id": 19,
+            "title": "100x Multiplier",
+            "description": "100x your clicks",
+            "modifier": 100,
+            "modifierType": "multiply",
+            "cost": 1000000,
+            "bought": false
+        },
+        {
+            "id": 20,
+            "title": "100x Multiplier",
+            "description": "100x your clicks",
+            "modifier": 100,
+            "modifierType": "multiply",
+            "cost": 1000000,
+            "bought": false
+        },
+        {
+            "id": 21,
+            "title": "100x Multiplier",
+            "description": "100x your clicks",
+            "modifier": 100,
+            "modifierType": "multiply",
+            "cost": 1000000,
+            "bought": false
+        },
+        {
+            "id": 22,
+            "title": "100x Multiplier",
+            "description": "100x your clicks",
+            "modifier": 100,
+            "modifierType": "multiply",
+            "cost": 1000000,
+            "bought": false
+        },
+        {
+            "id": 23,
+            "title": "100x Multiplier",
+            "description": "100x your clicks",
+            "modifier": 100,
+            "modifierType": "multiply",
+            "cost": 1000000,
+            "bought": false
+        },
+        {
+            "id": 24,
+            "title": "100x Multiplier",
+            "description": "100x your clicks",
+            "modifier": 100,
+            "modifierType": "multiply",
+            "cost": 1000000,
+            "bought": false
+        },
+        {
+            "id": 25,
+            "title": "100x Multiplier",
+            "description": "100x your clicks",
+            "modifier": 100,
+            "modifierType": "multiply",
+            "cost": 1000000,
+            "bought": false
+        },
+        {
+            "id": 26,
+            "title": "100x Multiplier",
+            "description": "100x your clicks",
+            "modifier": 100,
+            "modifierType": "multiply",
+            "cost": 1000000,
+            "bought": false
+        },
+        {
+            "id": 27,
+            "title": "100x Multiplier",
+            "description": "100x your clicks",
+            "modifier": 100,
+            "modifierType": "multiply",
+            "cost": 1000000,
+            "bought": false
+        },
+        {
+            "id": 28,
+            "title": "100x Multiplier",
+            "description": "100x your clicks",
+            "modifier": 100,
+            "modifierType": "multiply",
+            "cost": 1000000,
+            "bought": false
+        },
+        {
+            "id": 29,
+            "title": "100x Multiplier",
+            "description": "100x your clicks",
+            "modifier": 100,
+            "modifierType": "multiply",
+            "cost": 1000000,
+            "bought": false
+        },
+        {
+            "id": 30,
+            "title": "100x Multiplier",
+            "description": "100x your clicks",
+            "modifier": 100,
+            "modifierType": "multiply",
+            "cost": 1000000,
+            "bought": false
+        },
+        {
+            "id": 31,
+            "title": "100x Multiplier",
+            "description": "100x your clicks",
+            "modifier": 100,
+            "modifierType": "multiply",
+            "cost": 1000000,
+            "bought": false
+        },
+        {
+            "id": 32,
+            "title": "100x Multiplier",
+            "description": "100x your clicks",
+            "modifier": 100,
+            "modifierType": "multiply",
+            "cost": 1000000,
+            "bought": false
+        }
+    ]
+}
